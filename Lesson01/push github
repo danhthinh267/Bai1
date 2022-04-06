@@ -1,0 +1,10 @@
+TH1: github project -> empty -> day code tu may tinh len github
+	- git init -> thiet lap moi truong git trong folder du an
+	- git add -A -> gom tat ca cac file them moi hoac thay doi -> chuan bi day len tren github
+	- git commit -m 'init project' -> label -> dan vao goi hang -> chuan bi ship
+	- git remote add origin https://github.com/tranvandiep/html5-css3.git
+	- git push -u origin master
+TH2: Ket noi du an vs github thanh
+	- git add -A
+	- git commit -m 'add test.html'
+	- git push origin master
